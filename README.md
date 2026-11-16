@@ -1,36 +1,15 @@
-<h1 align="center">João Victor Pires Novaes</h1>
+# 💫 About Me:
+👋 Sou João Victor, estudante de Ciência da Computação na UTFPR Medianeira.<br><br>💻 Busco estágio em desenvolvimento de software e tenho interesse em backend, IA aplicada e cibersegurança.<br><br>🔍 Em destaque no meu GitHub está um analisador de avaliações de restaurantes que usa um modelo de linguagem e compara suas classificações com as notas dos clientes.<br><br>🛡️ Faço parte do ARAPUCA, projeto de extensão em cibersegurança da UTFPR, onde desenvolvi um simulador educativo de phishing. Fiquei em 3º lugar no CTF da Latinoware 2026.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2400&pause=850&color=3697DC&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Desenvolvimento+de+software;IA+aplicada;Ciberseguran%C3%A7a" alt="Desenvolvimento de software, IA aplicada e cibersegurança">
-</p>
 
-<p align="center">
-  Ciência da Computação na UTFPR Medianeira · Formatura prevista para julho de 2027
-  <br>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-pires-novaes-42450b379/">LinkedIn</a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jao22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaovpnovaes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-victor-pires-novaes-42450b379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaovictorpiresnovaes@gmail.com) 
 
-## Projetos em destaque
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=joaovpnovaes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=joaovpnovaes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=joaovpnovaes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### [Analisador de avaliações de restaurantes](https://github.com/Joaovpnovaes/analisador-avaliacoes)
-
-Integrei um modelo de linguagem para classificar sentimentos, identificar problemas e resumir comentários. No painel, dá para comparar a classificação com a faixa de estrelas e investigar as divergências. Na demonstração com **60 avaliações fictícias**, houve concordância em **54 casos**.
-
-`Python` · `Streamlit` · `pandas` · `Plotly` · `pytest`
-
-### [JVDonates — Confirmação de entrega de doações](https://github.com/JVDonates/JVDonates)
-
-Implementei endpoints REST para que o doador confirme a saída da doação e a ONG confirme o recebimento. Escrevi testes unitários para o fluxo de confirmação e para o bloqueio de alterações após a confirmação da entrega.
-
-`TypeScript` · `NestJS` · `PostgreSQL` · `Jest`
-
-### [ARAPUCA — Simulador educativo de phishing](https://github.com/Joaovpnovaes/Arapuca-Pishing)
-
-Faço parte do ARAPUCA, projeto de extensão em cibersegurança da UTFPR Medianeira. Desenvolvi, com apoio de IA generativa, um simulador educativo de phishing para a Feira de Profissões da UTFPR.
-
-**Cibersegurança:** 3º lugar no Capture the Flag (CTF) da Latinoware 2026.
-
-## Em andamento
-
-- **TCC — IA para interfaces neuroinclusivas.** Estudo interfaces educacionais adaptativas para crianças com TEA e TDAH. A proposta prevê simular sugestões de um agente de IA que o usuário pode aceitar, recusar ou desfazer.
-- **MEI-U / CEANMED.** Participo de um projeto de sistema web para agendar equipamentos de laboratório, com aprovação de reservas e prevenção de conflitos de horário.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
