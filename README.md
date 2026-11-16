@@ -1,5 +1,5 @@
 # 🤠 Sobre Mim:
-👋 Sou João Victor, estudante de Ciência da Computação na UTFPR Medianeira.<br><br>💻 Busco estágio em desenvolvimento de software e tenho interesse em backend, IA aplicada e cibersegurança.<br><br>🔍 Em destaque no meu GitHub está um analisador de avaliações de restaurantes que usa um modelo de linguagem e compara suas classificações com as notas dos clientes.<br><br>🛡️ Faço parte do ARAPUCA, projeto de extensão em cibersegurança da UTFPR, onde desenvolvi um simulador educativo de phishing. Fiquei em 3º lugar no CTF da Latinoware 2026.
+👋 Sou João Victor, estudante de Ciência da Computação na UTFPR Medianeira.<br><br>💻 Busco estágio em desenvolvimento de software e tenho interesse em backend, IA aplicada e cibersegurança.<br><br>🔍 Em destaque no meu GitHub está um analisador de avaliações de restaurantes que usa um modelo de linguagem e compara suas classificações com as notas dos clientes.<br><br>🛡️ Faço parte do ARAPUCA, projeto de extensão em cibersegurança da UTFPR, onde desenvolvi um simulador educativo de phishing e Conquistei o 3º lugar no CTF da Latinoware 2026 pela ARAPUCA.
 
 
 ## 🟢 Redes Sociais:
